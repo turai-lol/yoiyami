@@ -27,7 +27,7 @@ recover_on_normal_exit: true
 
 # PostgreSQL configuration
 db:
-  host: pgsql
+  host: postgresql
   port: 5432
 
   # Database name
